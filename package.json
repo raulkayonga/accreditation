@@ -1,0 +1,9 @@
+{
+  "name": "accreditation",
+  "version": "7.2.0",
+  "homepage": "https://mdbootstrap.com/docs/standard/",
+  "license": "SEE LICENSE IN <License.txt>",
+  "dependencies": {
+    "datatables.net-dt": "^2.0.3"
+  }
+}
